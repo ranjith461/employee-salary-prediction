@@ -1,11 +1,21 @@
-YearsExperience,Salary
-1,250000
-2,300000
-3,350000
-4,400000
-5,450000
-6,500000
-7,550000
-8,600000
-9,650000
-10,700000
+Age,EducationLevel,JobTitle,YearsExperience,Salary
+22,Bachelor,Software Engineer,1,350000
+25,Bachelor,Data Analyst,3,500000
+28,Master,Data Scientist,5,850000
+30,Master,Software Engineer,7,900000
+35,PhD,Data Scientist,10,1500000
+24,Bachelor,Web Developer,2,400000
+27,Master,Data Analyst,4,700000
+32,Bachelor,Project Manager,8,1100000
+40,Master,Project Manager,15,1800000
+29,Bachelor,Web Developer,6,750000
+23,Bachelor,Software Engineer,2,450000
+31,Master,Data Scientist,8,1250000
+26,Bachelor,Web Developer,3,500000
+38,Master,Software Engineer,12,1600000
+34,PhD,Data Scientist,9,1400000
+28,Bachelor,Data Analyst,5,650000
+36,Master,Project Manager,11,1500000
+25,Bachelor,Software Engineer,4,600000
+42,PhD,Data Scientist,17,2200000
+33,Master,Web Developer,9,1150000
