@@ -162,7 +162,6 @@ experience = st.number_input(
 # Prediction
 if st.button("Predict Salary",
              key="predict_salary"):
-                 pass
 
     input_data = pd.DataFrame([{
         "Age": age,
